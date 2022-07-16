@@ -1,4 +1,6 @@
 import numpy as np
 
-for i in range(4):
+TIMES: int = 4
+
+for i in range(TIMES):
     print(i)
